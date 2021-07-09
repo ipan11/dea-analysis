@@ -1,0 +1,10 @@
+#pyDEA
+pystoned
+ipython
+pandas
+pyomo
+xlrd
+openpyxl
+plotly==5.0.0
+scikit-learn
+mlflow
